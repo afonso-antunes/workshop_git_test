@@ -38,7 +38,7 @@ cd workshop-git
 - [ ] division
 - [ ] max
 - [ ] min
-- [ ] avg
+- [ ] avg/mean
 
 ## 9 · Merge Final && Resolver Conflitos && Testar se está tudo OK
 
